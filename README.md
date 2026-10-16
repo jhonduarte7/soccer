@@ -203,5 +203,5 @@ SOCCER/
 
 ## 📌 Repositorio
 
-- **GitHub Repository**: [https://github.com/jhonduarte7/SOCCER](https://github.com/jhonduarte7/SOCCER)
+- **GitHub Repository**: [https://github.com/jhonduarte7/soccer](https://github.com/jhonduarte7/soccer)
 - **Autor / Propietario**: `jhonduarte7`

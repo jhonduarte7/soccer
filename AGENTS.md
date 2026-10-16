@@ -5,7 +5,7 @@ This workspace is configured for developing high-quality Spring Boot application
 - **Project Name**: Soccer Management API (`soccer`)
 - **Technology Stack**: Java 21+ (Java 25 compatible runtime), Spring Boot 3.4.3, Spring Data JPA, Hibernate, Bean Validation, H2 In-Memory Database.
 - **Default Port**: `8082`
-- **Remote Git Repository**: `https://github.com/jhonduarte7/SOCCER`
+- **Remote Git Repository**: `https://github.com/jhonduarte7/soccer`
 
 ---
 
